@@ -1,4 +1,7 @@
 The "Essential" Moodle Theme for SJA
+
+Modifications to "Essential" Theme
+- Frontpage settings
 ======================
 
 With 2.5 now released Julian thought it time to take the opportunity to build a new theme that would push the new theme engine
